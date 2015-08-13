@@ -5,7 +5,7 @@
 	</section>
 	<section class="col-xs-10">
 		<nav>
-			<ul class="nav navbar-nav">
+			<ul class="nav navbar-nav footer-nav">
 				<li><a href="#">Contact a Ninja</a></li>
 				<li><a href="#">Call Us</a></li>
 				<li><a href="#">Directions</a></li>

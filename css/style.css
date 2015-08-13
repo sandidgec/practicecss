@@ -20,8 +20,20 @@ footer {
 }
 
 form {
-	padding-top: 40px;
+	padding-top: 20px;
+	padding-right: 20px;
 	border: solid;
+	margin: 20px;
 
 }
 
+.right-divider {
+ 	border-right: solid;
+}
+
+.footer-nav>li>a {
+	color: #FFFFFF;
+}
+.footer-nav>li>a:hover {
+	color: #000000;
+}

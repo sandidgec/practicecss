@@ -10,7 +10,7 @@
 			</header>
 
 			<div class="row">
-				<section class="col-md-4">
+				<section class="col-md-2 right-divider">
 					<?php require_once(dirname(__DIR__) . "/practicecss/php/side-panel.php") ?>
 				</section>
 
@@ -18,7 +18,7 @@
 
 					<h1>Bootcamp Sample Template Page</h1>
 
-					<form class="form-horizontal">
+					<form class="form-horizontal col-sm-6">
 						<?php require_once(dirname(__DIR__) . "/practicecss/php/form.php"); ?>
 					</form>
 
